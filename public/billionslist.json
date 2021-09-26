@@ -1,0 +1,112 @@
+[
+    {
+      "name": "Elon Musk",
+      "netWorth": 199.6,
+      "age": 50,
+      "donation" : 12.2 ,
+      "source": "Tesla, SpaceX",
+      "country": "United States",
+      "key" : 1,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47d4de7637290765bce495%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1699%26cropX2%3D3845%26cropY1%3D559%26cropY2%3D2704"
+    },
+    {
+      "name": "Jeff Bezos",
+      "netWorth": 198.7,
+      "age": 57,
+      "donation" : 10.3 ,
+      "source": "Amazon",
+      "country": "United States",
+      "key" : 2,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+    },
+    {
+      "name": "Bernard Arnault ",
+      "netWorth": 181.3,
+      "age": 72,
+      "donation" : 9.1 ,
+      "source": "LVMH",
+      "country": "France",
+      "key" : 3,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dc05518ca425400079c659f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4000%26cropY1%3D1209%26cropY2%3D5212"
+    },
+    {
+      "name": "Bill Gates",
+      "netWorth": 131.7,
+      "age": 65,
+      "donation" : 8.2 ,
+      "source": "Microsoft",
+      "country": "United States",
+      "key" : 4,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "netWorth": 126.2,
+      "age": 37,
+      "donation" : 7.6 ,
+      "source": "Facebook",
+      "country": "United States",
+      "key" : 5,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4401%26cropY1%3D0%26cropY2%3D4401"
+    },
+    {
+      "name": "Larry Page",
+      "netWorth": 121.6,
+      "age": 48,
+      "donation" : 6.2 ,
+      "source": "Google",
+      "country": "United States",
+      "key" : 6 ,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D227%26cropX2%3D2022%26cropY1%3D22%26cropY2%3D1817"
+    },
+    {
+      "name": "Mukesh Ambani",
+      "netWorth": 96,
+      "age": 64,
+      "donation" : 5.1 ,
+      "source": "diversified",
+      "country": "India",
+      "key" : 7,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c7d7829a7ea434b351ba0b6%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D206%26cropX2%3D2043%26cropY1%3D250%26cropY2%3D2089"
+    },
+    {
+      "name": "Amancio Ortega",
+      "netWorth": 84.3,
+      "age": 85,
+      "donation" : 5.0 ,
+      "source": "Zara",
+      "country": "Spain",
+      "key" : 8,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b94131358e35dd27748e%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D179%26cropX2%3D2232%26cropY1%3D216%26cropY2%3D2269"
+    },
+    {
+      "name": "Zhong Shanshan ",
+      "netWorth": 61.8,
+      "age": 66,
+      "donation" : 4.5 ,
+      "source": "beverages, pharmaceuticals",
+      "country": "China",
+      "key" : 9,
+      "img": "https://specials-images.forbesimg.com/imageserve/60380e390357bc1fbfc0bc32/416x416.jpg?background=000000&cropX1=116&cropX2=1327&cropY1=201&cropY2=1413"
+    },
+    {
+      "name": "MacKenzie Scott",
+      "netWorth": 57.6,
+      "age": 51,
+      "donation" : 4.2 ,
+      "source": "Amazon",
+      "country": "United States",
+      "key" : 10,
+      "img": "https://specials-images.forbesimg.com/imageserve/605e55e3d81fd508109d9140/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+    },
+    {
+      "name": "Ma Huateng",
+      "netWorth": 45.8,
+      "age": 49,
+      "donation" : 3.4 ,
+      "source": "internet media",
+      "country": "China",
+      "key" : 11,
+      "img": "https://specials-images.forbesimg.com/imageserve/605e23c0f0986f688fbd3e15/416x416.jpg?background=000000&cropX1=0&cropX2=1080&cropY1=0&cropY2=1080"
+    }
+  ]

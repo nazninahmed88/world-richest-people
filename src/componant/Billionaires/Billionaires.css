@@ -1,0 +1,15 @@
+.billonaires-container{
+    display: grid;
+    grid-template-columns:  3fr 1fr;
+    text-align: left;
+    margin-top: 20px;
+}
+.billionslist-container{
+    margin-left: 60px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.cart-container{
+    margin-left: 20px;
+    margin-top: 15px;
+}
