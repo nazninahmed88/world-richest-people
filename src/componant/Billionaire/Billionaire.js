@@ -20,7 +20,7 @@ const Billionaire = (props) => {
             <button
             onClick ={()=>props.handelcart(props.billionaire)}
              className='regular-btn'>{cartPlus}
-              Add to cart</button>
+              Add For Donation</button>
 
         </div>
     );

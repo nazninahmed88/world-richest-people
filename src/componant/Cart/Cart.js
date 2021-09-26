@@ -16,7 +16,7 @@ const Cart = (props) => {
         <div className='cart'>
              <h2>{add} Person : {props.cart.length}</h2> 
                 
-                <h3>Total Donation : {total}</h3>
+                <h3>Total Donation : {total.toFixed(2)}</h3>
                 <h2> Name:{props.name} </h2>
      
                 {
